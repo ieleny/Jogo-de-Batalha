@@ -54,5 +54,13 @@ Um sistema de controle de versões na função prática da Ciência da computaç
  
  git commit -m 'Meu Primeiro Commit'
  
- ## 
+ ## Ver Historico
+ 
+ git log (Exibe historico listando todos os commits, que o projeto sofreu até o momento atual)
+ 
+ ## Utilizando Git em repositorio Remoto
+ 
+ Para ser capaz de colabora com qualquer  projeto, envolvendo e gerenciando esses repositorios remotos e fazer push e pull de dados neles quando voce precisa compartilhar trabalho.Gerenciar repositorios remotos que não são mais validos, gerenciar varios branches remotos e definilos como monitorados ou não,e mais. Nesta seção vamos cobrir essas habilidades de gerenciamento remoto.
+ 
+ 
 
