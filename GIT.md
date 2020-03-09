@@ -63,4 +63,12 @@ Um sistema de controle de versões na função prática da Ciência da computaç
  Para ser capaz de colabora com qualquer  projeto, envolvendo e gerenciando esses repositorios remotos e fazer push e pull de dados neles quando voce precisa compartilhar trabalho.Gerenciar repositorios remotos que não são mais validos, gerenciar varios branches remotos e definilos como monitorados ou não,e mais. Nesta seção vamos cobrir essas habilidades de gerenciamento remoto.
  
  
+ ## Utilizando Git em um repositorio remoto -ferramenteas
+ 
+ BITBUCKET
+ GITLAB
+ GITHUB
+ 
+ 
+ 
 
