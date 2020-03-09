@@ -7,4 +7,11 @@ São a formas que temos dentro do desenvolvimento do software, para gerenciar o 
 
 Um sistema de controle de versões na função prática da Ciência da computação e da engenharia de software, é um software que tem a finalidade de gerenciar diferentes versões no desenvolvimento de um documento qualquer.E esses sistemas são comumente utilizados no desenvolvimento de software para controlar as diferentes versões - historico e desenvolvimento - dos codigos fontes e tamb~´em da documentação(wikipedia)
 
-## 
+## Ferramentas de Controle de Versão 
+ - Subversion/SVN
+ - MERCURIAL
+ - CVS
+ - GIT
+ 
+ # Conhecendo o GIT
+ Git é um sistema de controle de versão distribuido e um sistema de gerenciamento de codigo fonte, com enfase em velocidade. O Git foi inicalmente projetado e desenvolvido por Linus Torvalds  para o desenvolvimento do Kernel Linux, mais foi adotado por muitos outros projetos.
