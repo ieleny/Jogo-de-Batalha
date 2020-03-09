@@ -30,6 +30,29 @@ Um sistema de controle de versões na função prática da Ciência da computaç
  - Git Log                              - Historico de alterações
  - Git Branch                           - Criar uma nova branch(Ramificação)
  
- 
+ ## Criação Repositorio 
 
+ Mkdir projeto-curso-git (Criar o repositorio) </br>
+ cd Projeto-curso-git (Acessar o repositorio)  </br>
+ git init (Inicar um Vazio)                    </br>
+ 
+ - Mensagem quando está correto 
+ Initialized empty Git Repository in /home/eduardo/Documentos/projeto-curso-git/.git
+ 
+ ## Criando um arquivo e verificando o status em um repositorio GIT
+ 
+ - touch index.html (O comando linux TOUCH irá criar um novo arquivo no diretório do repositório chamado index.html)
+ - git status (o comando git status irá nos mostrar o que foi alterado no diretorio)
+ 
+ ## Criando arquivo e verificando o status em um repositorio GIT
+ 
+ git add.
+ git add index.html
+ git status
+ 
+ ## Commitando em um repositorio GIT
+ 
+ git commit -m 'Meu Primeiro Commit'
+ 
+ ## 
 
