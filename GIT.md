@@ -19,13 +19,13 @@ Um sistema de controle de versões na função prática da Ciência da computaç
  
  ## Comandos GIT
  
- Git init - Criar repositorio (Inicializar o repositorio)
- Git clone - Clonar repositorio
- Git add. || git add <<nome_arquivo>> - Adicionar todos os arquivos || Adicionar um arquivo especifico
- Git commit -m 'mensagem de commit'   - Informar a mensagem do commit 
- Git push - Enviar os arquivos para o repositorio
- Git pull - Capturar os arquivos modificados do repositorio
- Git Merge - 
+ - Git init - Criar repositorio (Inicializar o repositorio)
+ - Git clone - Clonar repositorio
+ - Git add. || git add <<nome_arquivo>> - Adicionar todos os arquivos || Adicionar um arquivo especifico
+ - Git commit -m 'mensagem de commit'   - Informar a mensagem do commit 
+ - Git push - Enviar os arquivos para o repositorio
+ - Git pull - Capturar os arquivos modificados do repositorio
+ - Git Merge - 
  
  
 
