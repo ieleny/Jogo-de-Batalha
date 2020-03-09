@@ -13,5 +13,20 @@ Um sistema de controle de versões na função prática da Ciência da computaç
  - CVS
  - GIT
  
- # Conhecendo o GIT
+ ## Conhecendo o GIT
  Git é um sistema de controle de versão distribuido e um sistema de gerenciamento de codigo fonte, com enfase em velocidade. O Git foi inicalmente projetado e desenvolvido por Linus Torvalds  para o desenvolvimento do Kernel Linux, mais foi adotado por muitos outros projetos.
+ 
+ 
+ ## Comandos GIT
+ 
+ Git init - Criar repositorio (Inicializar o repositorio)
+ Git clone - Clonar repositorio
+ Git add. || git add <<nome_arquivo>> - Adicionar todos os arquivos || Adicionar um arquivo especifico
+ Git commit -m 'mensagem de commit'   - Informar a mensagem do commit 
+ Git push - Enviar os arquivos para o repositorio
+ Git pull - Capturar os arquivos modificados do repositorio
+ Git Merge - 
+ 
+ 
+
+
